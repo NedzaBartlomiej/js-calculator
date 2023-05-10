@@ -1,0 +1,24 @@
+#calc-body {
+    text-align: center;
+    width: 400px;
+    height: max-content;
+    border: 2px solid #222;
+    padding: 10px 0 10px 0;
+}
+
+#out {
+    width: 90%;
+    height: 50px;
+    border: none;
+    background-color: #eee;
+    padding: 5px;
+    margin: 5px 0 10px 0;
+    font-size: 1.6rem;
+}
+
+button {
+    padding: 5px;
+    width: 75px;
+    height: 45px;
+    margin: 5px;
+}
